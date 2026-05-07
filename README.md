@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-A sorting visualizer app that shows step by step process of sorting in bubble sort.
+An interactive JavaScript app that visually demonstrates how sorting algorithms work. This project showcases functional programming, algorithmic thinking, DOM manipulation, and responsive UI design.
 
 ---
 
@@ -20,15 +20,16 @@ A sorting visualizer app that shows step by step process of sorting in bubble so
 
 ## 📸 Screenshots
 
-![Screenshot](./assets/images/screenshot.jpeg)
+![Screenshot](./assets/images/screenshot.gif)
 
 ---
 
 ## 📚 Features
 
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
+- **Functional programming approach**: Implements sorting logic using pure functions and immutability.
+- **Interactive UI**: Users can generate arrays of random numbers and watch the sorting process step‑by‑step.
+- **Adjustable speed**: Control the visualization speed for better understanding.
+- **Responsive design**: Works seamlessly across desktop and mobile browsers.
 
 ---
 
@@ -63,8 +64,11 @@ root/
 
 ## 📌 Future Improvements
 
-- Add accessibility enhancements
-- Improve mobile responsiveness
-- Add more interactive features
+- Add more algorithms (Heap Sort, Radix Sort).
+- Provide step‑by‑step explanations alongside the visualization.
+- Add color coding for comparisons and swaps.
+- Enhance accessibility with ARIA labels and keyboard navigation.
 
 ## ℹ️ About
+
+This project is part of the **FreeCodeCamp JavaScript curriculum** and highlights skills in **functional programming, algorithm visualization, and interactive UI design**. It serves as a practical example of applying programming concepts to improve algorithm understanding.
